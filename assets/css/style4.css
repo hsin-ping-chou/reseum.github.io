@@ -26,12 +26,12 @@ border-bottom: 2px solid #DEDDDF;
 background: #f3f4f2;
 margin:auto;
 width: 1500px;
-height: 1800px;
+height: auto;
 border-bottom: 2px solid #DEDDDF;
 }
 .a3inner{
 width: 1400px; 
-height: 1800px;
+height: auto;
 margin:auto;
 padding: 40px 20px 20px 0px;
 white-space: nowrap; 
